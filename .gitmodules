@@ -5,18 +5,18 @@
     path = backend
     url = ../workplace-backend
     branch = master
-[submodule "rmrweb"]
-    path = RMRWeb
-    url = git@bitbucket.org/DarkSideF/rmrweb.git
-[submodule "rmr_unit_texts"]
-    path = RMRUnitTexts
-    url = git@bitbucket.org/DarkSideF/rmr_unit_texts.git
-[submodule "gzwebappdocs"]
-    path = GZWebAppDocs
-    url = git@bitbucket.org/DarkSideF/gzwebappdocs.git
-[submodule "gz_docker"]
-    path = RMRDockerRegistry
-    url = git@bitbucket.org/DarkSideF/gz_docker.git
-[submodule "gzapi"]
-    path = GZApiary
-    url = git@github.com/DarkSideF/gzapi_description.git
+# [submodule "rmrweb"]
+#     path = RMRWeb
+#     url = git@bitbucket.org/DarkSideF/rmrweb.git
+# [submodule "rmr_unit_texts"]
+#     path = RMRUnitTexts
+#     url = git@bitbucket.org/DarkSideF/rmr_unit_texts.git
+# [submodule "gzwebappdocs"]
+#     path = GZWebAppDocs
+#     url = git@bitbucket.org/DarkSideF/gzwebappdocs.git
+# [submodule "gz_docker"]
+#     path = RMRDockerRegistry
+#     url = git@bitbucket.org/DarkSideF/gz_docker.git
+# [submodule "gzapi"]
+#     path = GZApiary
+#     url = git@github.com/DarkSideF/gzapi_description.git
