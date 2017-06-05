@@ -20,3 +20,6 @@
 # [submodule "gzapi"]
 #     path = GZApiary
 #     url = git@github.com/DarkSideF/gzapi_description.git
+[submodule "docs-gitbook"]
+	path = docs-gitbook
+	url = git@github.com:Shaxmatist/gz-doc-private.git
