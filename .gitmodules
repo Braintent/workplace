@@ -1,9 +1,9 @@
 [submodule "frontend"]
-  path = frontend
-  url = git@github.com:Shaxmatist/gz-workplace.git
+    path = frontend
+    url = git@github.com:Shaxmatist/gz-workplace.git
 [submodule "backend"]
-	path = backend
-	url = git@github.com:Shaxmatist/workplace-backend.git
+    path = backend
+    url = ../workplace-backend
 [submodule "rmrweb"]
     path = RMRWeb
     url = git@bitbucket.org/DarkSideF/rmrweb.git
