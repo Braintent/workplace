@@ -1,3 +1,15 @@
 [submodule "frontend"]
-	path = frontend
-	url = git@github.com:Shaxmatist/gz-workplace.git
+        path = frontend
+        url = git@github.com:Shaxmatist/gz-workplace.git
+[submodule "rmrweb"]
+    path = RMRWeb
+    url = git@bitbucket.org/DarkSideF/rmrweb.git
+[submodule "rmr_unit_texts"]
+    path = RMRUnitTexts
+    url = git@bitbucket.org/DarkSideF/rmr_unit_texts.git
+[submodule "gzwebappdocs"]
+    path = GZWebAppDocs
+    url = git@bitbucket.org/DarkSideF/gzwebappdocs.git
+[submodule "gz_docker"]
+    path = RMRDockerRegistry
+    url = git@bitbucket.org/DarkSideF/gz_docker.git
