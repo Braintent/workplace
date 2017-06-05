@@ -4,6 +4,7 @@
 [submodule "backend"]
     path = backend
     url = ../workplace-backend
+    branch = master
 [submodule "rmrweb"]
     path = RMRWeb
     url = git@bitbucket.org/DarkSideF/rmrweb.git
