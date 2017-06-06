@@ -1,6 +1,6 @@
 [submodule "frontend"]
   path = frontend
-  url = git@github.com:Braintent/gz-workplace.git
+  url = git@github.com:Braintent/workplace-frontend.git
 [submodule "backend"]
   path = backend
   url = git@github.com:Braintent/workplace-backend.git
@@ -20,5 +20,4 @@
   url = git@github.com:Braintent/workplace-apiary.git
 [submodule "docs-gitbook"]
   path = docs-gitbook
-  url = git@github.com:Braintent/gz-doc-private.git
-
+  url = git@github.com:Braintent/workplace-docs.git
