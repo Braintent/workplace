@@ -1,23 +1,23 @@
 [submodule "frontend"]
-	path = frontend
-	url = git@github.com:Braintent/workplace-frontend.git
+  path = frontend
+  url = git@github.com:Braintent/workplace-frontend.git
 [submodule "backend"]
-	path = backend
-	url = git@github.com:Braintent/workplace-backend.git
+  path = backend
+  url = git@github.com:Braintent/workplace-backend.git
   branch = master
 [submodule "backend-notes"]
-	path = backend-notes
-	url = git@github.com:Braintent/workplace-backend-notes.git
+  path = backend-notes
+  url = git@github.com:Braintent/workplace-backend-notes.git
 [submodule "unit-codes"]
-	path = unit-codes
-	url = git@github.com:Braintent/workplace-unit-codes.git
+  path = unit-codes
+  url = git@github.com:Braintent/workplace-unit-codes.git
 [submodule "docker"]
-	path = docker
-	url = git@github.com:Braintent/workplace-docker.git
+  path = docker
+  url = git@github.com:Braintent/workplace-docker.git
   branch = master
 [submodule "apiary"]
-	path = apiary
-	url = git@github.com:Braintent/workplace-apiary.git
+  path = apiary
+  url = git@github.com:Braintent/workplace-apiary.git
 [submodule "docs-gitbook"]
-	path = docs-gitbook
-	url = git@github.com:Braintent/workplace-docs.git
+  path = docs-gitbook
+  url = git@github.com:Braintent/workplace-docs.git
