@@ -3,7 +3,7 @@
     url = git@github.com:Shaxmatist/gz-workplace.git
 [submodule "backend"]
     path = backend
-    url = ../workplace-backend
+    url = git@github.com:Shaxmatist/workplace-backend.git
     branch = master
 # [submodule "rmrweb"]
 #     path = RMRWeb
