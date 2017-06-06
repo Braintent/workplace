@@ -1,25 +1,24 @@
 [submodule "frontend"]
-    path = frontend
-    url = git@github.com:Shaxmatist/gz-workplace.git
+  path = frontend
+  url = git@github.com:Braintent/gz-workplace.git
 [submodule "backend"]
-    path = backend
-    url = git@github.com:Shaxmatist/workplace-backend.git
-    branch = master
-# [submodule "rmrweb"]
-#     path = RMRWeb
-#     url = git@bitbucket.org/DarkSideF/rmrweb.git
-# [submodule "rmr_unit_texts"]
-#     path = RMRUnitTexts
-#     url = git@bitbucket.org/DarkSideF/rmr_unit_texts.git
-# [submodule "gzwebappdocs"]
-#     path = GZWebAppDocs
-#     url = git@bitbucket.org/DarkSideF/gzwebappdocs.git
-# [submodule "gz_docker"]
-#     path = RMRDockerRegistry
-#     url = git@bitbucket.org/DarkSideF/gz_docker.git
-# [submodule "gzapi"]
-#     path = GZApiary
-#     url = git@github.com/DarkSideF/gzapi_description.git
+  path = backend
+  url = git@github.com:Braintent/workplace-backend.git
+  branch = master
+[submodule "backend-notes"]
+  path = backend-notes
+  url = git@github.com:Braintent/workplace-backend-notes.git
+[submodule "unit-codes"]
+  path = unit-codes
+  url = git@github.com:Braintent/workplace-unit-codes.git
+[submodule "docker"]
+  path = docker
+  url = git@github.com:Braintent/workplace-docker.git
+  branch = master
+[submodule "apiary"]
+  path = apiary
+  url = git@github.com:Braintent/workplace-apiary.git
 [submodule "docs-gitbook"]
-	path = docs-gitbook
-	url = git@github.com:Shaxmatist/gz-doc-private.git
+  path = docs-gitbook
+  url = git@github.com:Braintent/gz-doc-private.git
+
